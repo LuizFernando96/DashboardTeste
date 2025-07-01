@@ -1,0 +1,518 @@
+ID_Cidade,Continente
+425,Asia
+468,Asia
+471,Asia
+473,Asia
+478,Asia
+487,Asia
+492,Asia
+493,Asia
+509,Asia
+510,Asia
+512,Asia
+518,Asia
+519,Asia
+531,Asia
+534,Asia
+549,Asia
+553,Asia
+554,Asia
+558,Asia
+561,Asia
+568,Asia
+596,Asia
+599,Asia
+613,Asia
+628,Asia
+632,Asia
+634,Asia
+637,Asia
+646,Asia
+648,Asia
+655,Asia
+656,Asia
+669,Asia
+679,Asia
+680,Asia
+692,Asia
+697,Asia
+699,Asia
+706,Asia
+708,Asia
+709,Asia
+710,Asia
+711,Asia
+712,Asia
+713,Asia
+714,Asia
+715,Asia
+716,Asia
+717,Asia
+718,Asia
+719,Asia
+720,Asia
+721,Asia
+722,Asia
+723,Asia
+724,Asia
+725,Asia
+726,Asia
+727,Asia
+728,Asia
+729,Asia
+730,Asia
+731,Asia
+732,Asia
+733,Asia
+734,Asia
+735,Asia
+423,Europe
+426,Europe
+435,Europe
+437,Europe
+439,Europe
+447,Europe
+449,Europe
+454,Europe
+459,Europe
+474,Europe
+476,Europe
+480,Europe
+481,Europe
+482,Europe
+483,Europe
+485,Europe
+486,Europe
+491,Europe
+496,Europe
+497,Europe
+498,Europe
+501,Europe
+503,Europe
+504,Europe
+506,Europe
+513,Europe
+515,Europe
+517,Europe
+521,Europe
+524,Europe
+525,Europe
+528,Europe
+529,Europe
+530,Europe
+532,Europe
+533,Europe
+539,Europe
+540,Europe
+541,Europe
+542,Europe
+543,Europe
+544,Europe
+545,Europe
+548,Europe
+555,Europe
+556,Europe
+557,Europe
+563,Europe
+564,Europe
+565,Europe
+567,Europe
+569,Europe
+572,Europe
+574,Europe
+576,Europe
+585,Europe
+586,Europe
+587,Europe
+588,Europe
+590,Europe
+591,Europe
+592,Europe
+595,Europe
+608,Europe
+615,Europe
+616,Europe
+621,Europe
+622,Europe
+623,Europe
+624,Europe
+626,Europe
+629,Europe
+635,Europe
+638,Europe
+639,Europe
+640,Europe
+641,Europe
+649,Europe
+650,Europe
+651,Europe
+654,Europe
+657,Europe
+659,Europe
+661,Europe
+662,Europe
+664,Europe
+666,Europe
+672,Europe
+673,Europe
+674,Europe
+676,Europe
+681,Europe
+683,Europe
+684,Europe
+685,Europe
+687,Europe
+696,Europe
+698,Europe
+700,Europe
+702,Europe
+704,Europe
+705,Europe
+736,Europe
+737,Europe
+738,Europe
+739,Europe
+740,Europe
+741,Europe
+742,Europe
+743,Europe
+745,Europe
+746,Europe
+747,Europe
+748,Europe
+749,Europe
+750,Europe
+751,Europe
+752,Europe
+753,Europe
+754,Europe
+755,Europe
+756,Europe
+757,Europe
+758,Europe
+759,Europe
+760,Europe
+761,Europe
+762,Europe
+763,Europe
+764,Europe
+765,Europe
+766,Europe
+767,Europe
+768,Europe
+769,Europe
+770,Europe
+771,Europe
+772,Europe
+773,Europe
+774,Europe
+775,Europe
+776,Europe
+777,Europe
+778,Europe
+779,Europe
+780,Europe
+781,Europe
+424,North America
+430,North America
+431,North America
+432,North America
+433,North America
+434,North America
+436,North America
+438,North America
+440,North America
+441,North America
+442,North America
+443,North America
+444,North America
+445,North America
+446,North America
+448,North America
+450,North America
+451,North America
+452,North America
+453,North America
+455,North America
+456,North America
+457,North America
+458,North America
+460,North America
+461,North America
+462,North America
+463,North America
+464,North America
+465,North America
+466,North America
+467,North America
+469,North America
+470,North America
+472,North America
+475,North America
+479,North America
+488,North America
+490,North America
+494,North America
+495,North America
+499,North America
+500,North America
+502,North America
+505,North America
+507,North America
+508,North America
+511,North America
+516,North America
+520,North America
+522,North America
+523,North America
+527,North America
+535,North America
+536,North America
+537,North America
+538,North America
+546,North America
+547,North America
+550,North America
+551,North America
+552,North America
+559,North America
+560,North America
+562,North America
+566,North America
+570,North America
+571,North America
+573,North America
+575,North America
+577,North America
+578,North America
+579,North America
+580,North America
+581,North America
+582,North America
+583,North America
+584,North America
+593,North America
+594,North America
+597,North America
+598,North America
+600,North America
+601,North America
+602,North America
+603,North America
+604,North America
+605,North America
+606,North America
+607,North America
+609,North America
+610,North America
+611,North America
+612,North America
+614,North America
+617,North America
+618,North America
+619,North America
+620,North America
+625,North America
+627,North America
+631,North America
+633,North America
+642,North America
+643,North America
+644,North America
+645,North America
+647,North America
+652,North America
+653,North America
+658,North America
+660,North America
+665,North America
+667,North America
+668,North America
+670,North America
+671,North America
+675,North America
+677,North America
+678,North America
+682,North America
+686,North America
+688,North America
+689,North America
+690,North America
+691,North America
+693,North America
+694,North America
+695,North America
+701,North America
+703,North America
+707,North America
+782,North America
+783,North America
+784,North America
+785,North America
+786,North America
+787,North America
+788,North America
+789,North America
+790,North America
+791,North America
+792,North America
+793,North America
+794,North America
+795,North America
+796,North America
+797,North America
+798,North America
+799,North America
+800,North America
+801,North America
+802,North America
+803,North America
+804,North America
+805,North America
+806,North America
+807,North America
+808,North America
+809,North America
+810,North America
+811,North America
+812,North America
+813,North America
+814,North America
+815,North America
+816,North America
+817,North America
+818,North America
+819,North America
+820,North America
+821,North America
+822,North America
+823,North America
+824,North America
+825,North America
+826,North America
+827,North America
+828,North America
+829,North America
+830,North America
+831,North America
+832,North America
+833,North America
+834,North America
+835,North America
+836,North America
+837,North America
+838,North America
+839,North America
+840,North America
+841,North America
+842,North America
+843,North America
+844,North America
+845,North America
+846,North America
+847,North America
+848,North America
+849,North America
+850,North America
+851,North America
+852,North America
+853,North America
+854,North America
+855,North America
+856,North America
+857,North America
+858,North America
+859,North America
+860,North America
+861,North America
+862,North America
+863,North America
+864,North America
+865,North America
+866,North America
+867,North America
+868,North America
+869,North America
+870,North America
+871,North America
+872,North America
+873,North America
+874,North America
+875,North America
+876,North America
+877,North America
+878,North America
+879,North America
+880,North America
+881,North America
+882,North America
+883,North America
+884,North America
+885,North America
+886,North America
+887,North America
+888,North America
+889,North America
+890,North America
+891,North America
+892,North America
+893,North America
+894,North America
+895,North America
+896,North America
+897,North America
+898,North America
+899,North America
+900,North America
+901,North America
+902,North America
+903,North America
+904,North America
+905,North America
+906,North America
+907,North America
+908,North America
+909,North America
+910,North America
+911,North America
+912,North America
+913,North America
+914,North America
+915,North America
+916,North America
+917,North America
+918,North America
+919,North America
+920,North America
+921,North America
+922,North America
+923,North America
+924,North America
+925,North America
+926,North America
+927,North America
+928,North America
+929,North America
+930,North America
+931,North America
+932,North America
+933,North America
+934,North America
+935,North America
+936,North America
+937,North America
+938,North America
+939,North America
+940,North America
+941,North America
+942,North America
+943,North America
+944,North America
+945,North America
+946,North America
+947,North America
+948,North America
+949,North America
+950,North America
+951,North America
+952,North America
